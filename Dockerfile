@@ -16,6 +16,6 @@ RUN apt-get -qq install -y python3 python3-pip apt-transport-https \
     curl pv jq
 RUN git clone https://github.com/SpEcHiDe/TerminalBot.git -b Pyrogram /app
 RUN echo "🥺"
-RUN pip3 install youtube-dl
+RUN pip3 install youtube-dlc
 RUN pip3 install --no-cache-dir -r requirements.txt
 CMD ["python3", "-m", "termbot"]
