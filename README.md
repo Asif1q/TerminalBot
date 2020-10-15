@@ -14,3 +14,9 @@ A Telegram Bot based on
 
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Lonami](https://telegram.dog/Lonami) for his [Telethon Library](https://github.com/LonamiWebs/Telethon)
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+#### The 
